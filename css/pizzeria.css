@@ -1,0 +1,22 @@
+.pizzeria{
+    width:200px;
+    height:100px;
+}
+.texto1{
+    font-family: garamond;
+    text-align: center;
+}
+.thumbnail{
+    width: 250px;
+    height: 250px;
+}
+.cuerpo{
+    font-family: garamond;
+    background-color: darkseagreen;
+}
+h5{
+    font-family: garamond;
+}
+footer{
+    text-align: center;
+}
